@@ -11,13 +11,11 @@ on:
     - master
 
 jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
+    build:
+      runs-on: ubuntu-latest
+      timeout-minutes: 5
 
-    steps:
+      steps:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
