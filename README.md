@@ -72,7 +72,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragverma01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" height="200" />
 </div>
 
+<div align="center">
 ![snake gif](https://github.com/anuragverma01/anuragverma01/blob/output/github-snake-dark.svg)
-
+</div>
 
 
