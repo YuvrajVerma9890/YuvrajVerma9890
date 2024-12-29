@@ -4,17 +4,17 @@
 <h3 align="center">
   A passionate Full Stack Developer with a desire to explore more about software development :smile:
 </h3>
+
 - 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **React Native Projects**
 
-- 👨‍💻 All of my projects are available at [https://yuvraj-portfolio-app.vercel.app/](https://yuvraj-portfolio-app.vercel.app/)
+- 👨‍💻 All of my projects are available at [🌍](https://yuvraj-portfolio-app.vercel.app/)
 
 - 💬 Ask me about **React Native, React.js**
 
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/thivagarm/">
-  <img
+ 🌐 Connect with Me 🍬 <a href="https://www.linkedin.com/in/yuvraj-verma-329068290/"> <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
   />
@@ -25,7 +25,7 @@
   <tr>
     <!-- Languages and Tools Section -->
     <td>
-      <h3>Languages and Tools:</h3>
+      <h3>💻 Tech Stack ⚡</h3>
       <p>
         <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
@@ -64,7 +64,7 @@
   </tr>
 </table>
 
-## 📊 &nbsp;Stats
+## 📊 &nbsp;Stats 🔥
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Streak Stats Image with fixed height -->
 <img src="https://github-readme-stats.vercel.app/api?username=anuragverma01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200"  alt="stats graph" />
